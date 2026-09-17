@@ -6,11 +6,11 @@
 	<img src="https://img.shields.io/badge/SpringBoot/RestfulServices-red.svg">
 </p>
 
-A Java REST web-service example built with Spring Boot and Maven, demonstrating a conventional Spring-based HTTP application structure and JSON/XML web-service support.
+A Java REST web-service built with Spring Boot and Maven, demonstrating a conventional Spring-based HTTP application structure and JSON/XML web-service support.
 
 ## Overview
 
-This repository contains an earlier Spring Boot application focused on RESTful web-service development.
+This repository contains a Spring Boot application focused on RESTful web-service development.
 
 The project demonstrates:
 
@@ -30,7 +30,7 @@ The project demonstrates:
 - Jackson
 - Maven
 
-> This is a historical Spring Boot example retained as part of a broader software engineering portfolio. The framework version reflects the original implementation and is not intended as a current production baseline.
+> This is a historical Spring Boot retained as part of a broader software engineering. The framework version reflects the original implementation and is not intended as a current production baseline.
 
 ## Project Structure
 
@@ -64,8 +64,4 @@ Build the application:
 ```bash
 ./mvnw spring-boot:run
 ```
-
-## Purpose
-
-This repository provides a compact example of Java/Spring REST application development and complements newer backend, distributed-systems, platform, and AI engineering projects in the portfolio.
 
