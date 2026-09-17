@@ -1,10 +1,4 @@
-[CopyrightLicense]:./license.md
-<p align="center">
-	<a href="https://spring.io/img/spring-by-pivotal.png" ></a>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/badge/SpringBoot/RestfulServices-red.svg">
-</p>
+# RESTful Web Services
 
 A Java REST web-service built with Spring Boot and Maven, demonstrating a conventional Spring-based HTTP application structure and JSON/XML web-service support.
 
