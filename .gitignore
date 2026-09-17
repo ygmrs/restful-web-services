@@ -23,3 +23,12 @@
 /nbdist/
 /.nb-gradle/
 /build/
+
+# IDE-generated Ant build metadata
+mobile-app-ws.properties
+mobile-app-ws.xml
+module_mobile-app-ws.xml
+
+# OS files
+.DS_Store
+Thumbs.db
