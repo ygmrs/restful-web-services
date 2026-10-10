@@ -24,7 +24,7 @@ The project demonstrates:
 - Jackson
 - Maven
 
-> This is a Spring Boot retained as part of a broader software engineering. The framework version reflects the original implementation and is not intended as a current production baseline.
+> This project demonstrates RESTful service development using Spring Boot, Spring MVC, and Jackson, with Maven-based build management and testing support. It retains its original Java 8 and Spring Boot 2.1 configuration.
 
 ## Project Structure
 
