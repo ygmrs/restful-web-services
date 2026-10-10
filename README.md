@@ -24,7 +24,7 @@ The project demonstrates:
 - Jackson
 - Maven
 
-> This is a historical Spring Boot retained as part of a broader software engineering. The framework version reflects the original implementation and is not intended as a current production baseline.
+> This is a Spring Boot retained as part of a broader software engineering. The framework version reflects the original implementation and is not intended as a current production baseline.
 
 ## Project Structure
 
